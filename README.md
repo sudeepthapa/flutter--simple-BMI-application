@@ -8,7 +8,7 @@ BMI Application
 ### Flutter State Implementation with setState
 ### Some Calculations and conditions 
 
-<img src="screenshots/bmi.png" width="420px" >
+<img src="screenshots/bmi.png" width="400px" >
 
 
 
